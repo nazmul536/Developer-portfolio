@@ -1,12 +1,15 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
-    font-family: 50px;
+    font-family: 60px;
+    font-weight: 700;
 }
 
-.orang {
+.orange {
     color: orange;
 }
 
@@ -17,10 +20,13 @@ section {
 .half-width {
     width: 50%;
     padding-left: 5%;
+    font-size: 23px;
 }
 
 .half-width img {
-    width: 100%;
+    width: 600px;
+    height: 600px;
+
 }
 
 .link-button {
@@ -30,4 +36,9 @@ section {
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
