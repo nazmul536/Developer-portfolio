@@ -15,7 +15,7 @@ h2 {
 
 h4 {
     font-size: 40px;
-    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .orange {
@@ -34,8 +34,9 @@ h4 {
 }
 
 .half-width img {
-    width: 600px;
-    height: 600px;
+    width: 100%;
+
+    padding-top: 10px;
 
 }
 
@@ -46,6 +47,7 @@ h4 {
     border-radius: 10px;
     color: white;
     font-weight: 700;
+    padding-top: 5px;
 }
 
 .top-banner {
