@@ -71,6 +71,11 @@ h4 {
     border-radius: 10px;
 }
 
+.experience-item p {
+    text-align: justify;
+    padding-right: 10px;
+}
+
 .Experience {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
